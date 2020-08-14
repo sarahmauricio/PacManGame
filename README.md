@@ -6,4 +6,5 @@ Search: Implement depth-first, breadth-first, uniform cost, and A* search algori
 
 Multi-Agent Search: Classic Pacman is modeled as both an adversarial and a stochastic search problem. Implement multiagent minimax and expectimax algorithms, as well as designing evaluation functions.
 
-Reinforcement Learning: Implement model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
+Here's a video of what the project is:
+<img src='PacManP1.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
